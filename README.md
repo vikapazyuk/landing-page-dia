@@ -34,10 +34,10 @@ The purpose of this project is to demonstrate my ability to:
 
 ## Getting Started
 Clone the repository:
-git clone https://github.com/vikapazyuk/landing-page-dia.git
-cd dia-landing-page
-npm install
-npm start
+- git clone https://github.com/vikapazyuk/landing-page-dia.git
+- cd dia-landing-page
+- npm install
+- npm start
 
 ## Features
 - Pixel-perfect Figma design implementation
