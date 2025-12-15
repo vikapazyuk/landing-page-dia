@@ -20,12 +20,15 @@ The purpose of this project is to demonstrate my ability to:
 - Maintain a clean and organized codebase suitable for portfolio presentation.
 
 ## Live Preview
+
 [View Live](https://vikapazyuk.github.io/landing-page-dia/)
 
 ## Design Reference
+
 [Figma Design](https://www.figma.com/design/7qwsWggv9BAxMi2VPhBuPr/Air--formerly-Dia--?node-id=9138-35&p=f)
 
 ## Technologies Used
+
 - HTML5
 - SCSS
 - BEM methodology
@@ -33,6 +36,7 @@ The purpose of this project is to demonstrate my ability to:
 - GitHub Pages
 
 ## Getting Started
+
 Clone the repository:
 - git clone https://github.com/vikapazyuk/landing-page-dia.git
 - cd dia-landing-page
@@ -40,6 +44,7 @@ Clone the repository:
 - npm start
 
 ## Features
+
 - Pixel-perfect Figma design implementation
 - Fully responsive layout: 2560px → 320px+
 - Header with navigation
