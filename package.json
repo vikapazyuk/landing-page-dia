@@ -1,5 +1,6 @@
 {
   "name": "gulp-boilerplate",
+  "homepage": "https://vikapazyuk.github.io/landing-page-dia",
   "version": "1.0.0",
   "description": "Frontend boilerplate based on gulp",
   "scripts": {
